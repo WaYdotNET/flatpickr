@@ -13,5 +13,4 @@ flatpickr.l10ns.uk.months = {
 	shorthand: ["Січ", "Лют", "Бер", "Кві", "Тра", "Чер", "Лип", "Сер", "Вер", "Жов", "Лис", "Гру"],
 	longhand: ["Січень", "Лютий", "Березень", "Квітень", "Травень", "Червень", "Липень", "Серпень", "Вересень", "Жовтень", "Листопад", "Грудень"]
 };
-if (typeof module !== "undefined") 
-	module.exports = flatpickr.l10ns;
+if (typeof module !== "undefined") module.exports = flatpickr.l10ns;
