@@ -1,6 +1,6 @@
 {
-  "name": "flatpickr",
-  "version": "3.0.7",
+  "name": "flatpickr-waydotnet",
+  "version": "3.0.8",
   "description": "A lightweight, powerful javascript datetime picker",
   "scripts": {
     "start": "nodemon --watch build.js build.js -- --dev",
@@ -40,7 +40,7 @@
   "style": "dist/flatpickr.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chmln/flatpickr.git"
+    "url": "git+https://github.com/waydotnet/flatpickr.git"
   },
   "author": "Gregory <gregory.mkv@gmail.com>",
   "license": "MIT",
