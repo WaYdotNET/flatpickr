@@ -1,5 +1,5 @@
 /* Sinhala locals for flatpickr */
-var flatpickr = flatpickr || { l10ns: {} };
+var flatpickr = flatpickr || {l10ns: {}};
 flatpickr.l10ns.si = {};
 
 flatpickr.l10ns.si.weekdays = {
@@ -12,4 +12,6 @@ flatpickr.l10ns.si.months = {
 	longhand: ["ජනවාරි", "පෙබරවාරි", "මාර්තු", "අප්‍රේල්", "මැයි", "ජුනි", "ජූලි", "අගෝස්තු", "සැප්තැම්බර්", "ඔක්තෝබර්", "නොවැම්බර්", "දෙසැම්බර්"]
 };
 
-if (typeof module !== "undefined") module.exports = flatpickr.l10ns;
+if (typeof module !== "undefined") 
+	module.exports = flatpickr.l10ns;
+
